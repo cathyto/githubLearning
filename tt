@@ -1,0 +1,19 @@
+[33mcommit a6cff3eb0ce102238c347a3d6bbfd9de2d1a709a[m
+Author: cathyto <cathyto@users.noreply.github.com>
+Date:   Wed Jun 18 09:34:18 2014 -0700
+
+    Add objectives
+
+[33mcommit 8828415fb8a0af77af67d1b9780fe6ed4e243d84[m
+Author: cathyto <cathyto@users.noreply.github.com>
+Date:   Wed Jun 18 09:32:05 2014 -0700
+
+    Update title, add description to body
+    
+    The default GitHub generated readme uses the less preferred (for me) ===== format of markdwon heading.
+
+[33mcommit 242eb4275fff714afb94d986bdc113d9ed9d2dc4[m
+Author: cathyto <cathyto@users.noreply.github.com>
+Date:   Tue Jun 17 13:30:23 2014 -0700
+
+    Initial commit
